@@ -5,16 +5,16 @@ This data set was obtained from Kaggle. Here is the link to the [dataset](https:
 # todo 
 - [X] answer questions about dataset
 - [X] naming conventions
-- [ ] peer visualizations
+- [X] peer visualizations
   - [X] 1
   - [X] 2
-  - [ ] 3
+  - [X] 3
 - [ ] individual visualizations
   - [X] 1
   - [X] 2
   - [ ] 3
 - [ ] general public visualizations
   - [X] 1
-  - [ ] 2
+  - [X] 2
   - [ ] 3
 - [ ] double check and see if individual visualizations are sufficient 
