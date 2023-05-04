@@ -9,12 +9,12 @@ This data set was obtained from Kaggle. Here is the link to the [dataset](https:
   - [X] 1
   - [X] 2
   - [X] 3
-- [ ] individual visualizations
+- [X] individual visualizations
   - [X] 1
   - [X] 2
-  - [ ] 3
-- [ ] general public visualizations
+  - [X] 3
+- [X] general public visualizations
   - [X] 1
   - [X] 2
-  - [ ] 3
-- [ ] double check and see if individual visualizations are sufficient 
+  - [X] 3
+- [X] double check and see if individual visualizations are sufficient 
